@@ -5,7 +5,7 @@ They are 🎉 💩-ers. But their editor is so good.
 
 Now you can use Emojis in your code without your IDE crapping out on you.
 
-Two ways to use it prepended with CONSOLE_ or not:
+Two ways to use it prepended with C_ or not:
 
 First use Emoji:
 
@@ -15,7 +15,7 @@ now use the emoji class:
 `Emoji::FLAG_FOR_NETHERLANDS` to get the Dutch flag 🇳🇱
 
 or if you want to display it in a console command use :
- `Emoji::CONSOLE_FLAG_FOR_NETHERLANDS` to get the Dutch flag with a space after it so it shows up properly in the console.
+ `Emoji::C_FLAG_FOR_NETHERLANDS` to get the Dutch flag with a space after it so it shows up properly in the console.
 
 or maybe you are more of a Unicorn person 🦄:
 `Emoji::UNICORN_FACE`
