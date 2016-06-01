@@ -1,0 +1,25 @@
+{
+    "name": "webdevvie/emoji",
+    "description": "A php class that has descriptive names for the emojis and said emojis as its value",
+    "keywords": ["Emoji","console","constants"],
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "John Bakker",
+            "email": "me@johnbakker.name"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": { "Webdevvie\\Emoji": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
+    "target-dir": "Webdevvie/Emoji"
+}
