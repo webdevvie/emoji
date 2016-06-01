@@ -1,11 +1,11 @@
 PHP Emoji class
 ===============
-A handy class for using Emojis in your php project. Certain IDE's don't like emojis.
-They are party poopers. But their editor is so good.
+A handy dumb class for using Emojis in your php project. In some IDEs emojis don't show up.
+They are 🎉 💩-ers. But their editor is so good.
 
 Now you can use Emojis in your code without your IDE crapping out on you.
 
-Two ways to use it:
+Two ways to use it prepended with CONSOLE_ or not:
 
 First use Emoji:
 
@@ -14,7 +14,7 @@ First use Emoji:
 now use the emoji class:
 `Emoji::FLAG_FOR_NETHERLANDS` to get the Dutch flag 🇳🇱
 
-or if you want to display it in a console use :
+or if you want to display it in a console command use :
  `Emoji::CONSOLE_FLAG_FOR_NETHERLANDS` to get the Dutch flag with a space after it so it shows up properly in the console.
 
 or maybe you are more of a Unicorn person 🦄:
@@ -22,11 +22,14 @@ or maybe you are more of a Unicorn person 🦄:
 
 
 This is nothing special. Just a simple helper class.
-
-There are no tests, there are no methods. 
+There are no tests, there are no methods.
 
 
 Acknowledgement
 ===============
 All information for this class was taken from
 [Unicode.org](http://unicode.org/emoji/charts/full-emoji-list.html)
+
+Also
+====
+If you like this library. Find me on twitter [@webdevvie](http://twitter.com/webdevvie) or my personal site [johnbakker.name](http://johnbakker.name) and throw me a 👍 😀
