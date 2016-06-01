@@ -24,6 +24,11 @@ or maybe you are more of a Unicorn person 🦄:
 This is nothing special. Just a simple helper class.
 There are no tests, there are no methods.
 
+CHEATSHEET
+==========
+Want a cheatsheet
+[Go here](CHEATSHEET.md)
+
 
 Acknowledgement
 ===============
