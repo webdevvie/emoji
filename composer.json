@@ -16,10 +16,5 @@
     "autoload": {
         "psr-0": { "Webdevvie\\Emoji": "" }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0"
-        }
-    },
     "target-dir": "Webdevvie/Emoji"
 }
