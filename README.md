@@ -5,6 +5,16 @@ They are 🎉 💩-ers. But their editor is so good.
 
 Now you can use Emojis in your code without your IDE crapping out on you.
 
+
+Installation
+------------
+Just use:
+
+`composer require webdevvie/emoji`
+
+
+Usage:
+------
 Two ways to use it prepended with C_ or not:
 
 First use Emoji:
