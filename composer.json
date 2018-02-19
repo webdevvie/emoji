@@ -2,7 +2,7 @@
     "name": "webdevvie/emoji",
     "description": "A php class that has descriptive names for the emojis and said emojis as its value",
     "keywords": ["Emoji","console","constants"],
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "John Bakker",
