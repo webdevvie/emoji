@@ -1,4 +1,8 @@
 emojis.html
+emojis-old.html
 GenerateEmojiClass.php
+tag-version.sh
+UpVersion.php
+currentversion
 test.php
 .idea

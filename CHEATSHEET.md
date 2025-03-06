@@ -3250,3 +3250,1421 @@ These are all the emojis in the class
 
 🇿🇼 = Emoji::FLAG_FOR_ZIMBABWE
 
+🤣 = Emoji::ROLLING_ON_THE_FLOOR_LAUGHING
+
+🫠 = Emoji::MELTING_FACE
+
+🥰 = Emoji::SMILING_FACE_WITH_HEARTS
+
+🤩 = Emoji::STAR_STRUCK
+
+☺ = Emoji::SMILING_FACE
+
+🥲 = Emoji::SMILING_FACE_WITH_TEAR
+
+🤪 = Emoji::ZANY_FACE
+
+🤭 = Emoji::FACE_WITH_HAND_OVER_MOUTH
+
+🫢 = Emoji::FACE_WITH_OPEN_EYES_AND_HAND_OVER_MOUTH
+
+🫣 = Emoji::FACE_WITH_PEEKING_EYE
+
+🤫 = Emoji::SHUSHING_FACE
+
+🫡 = Emoji::SALUTING_FACE
+
+🤨 = Emoji::FACE_WITH_RAISED_EYEBROW
+
+🫥 = Emoji::DOTTED_LINE_FACE
+
+😶‍🌫️ = Emoji::FACE_IN_CLOUDS
+
+😮‍💨 = Emoji::FACE_EXHALING
+
+🤥 = Emoji::LYING_FACE
+
+🫨 = Emoji::SHAKING_FACE
+
+🙂‍↔️ = Emoji::HEAD_SHAKING_HORIZONTALLY
+
+🙂‍↕️ = Emoji::HEAD_SHAKING_VERTICALLY
+
+🤤 = Emoji::DROOLING_FACE
+
+🫩 = Emoji::FACE_WITH_BAGS_UNDER_EYES
+
+🤢 = Emoji::NAUSEATED_FACE
+
+🤮 = Emoji::FACE_VOMITING
+
+🤧 = Emoji::SNEEZING_FACE
+
+🥵 = Emoji::HOT_FACE
+
+🥶 = Emoji::COLD_FACE
+
+🥴 = Emoji::WOOZY_FACE
+
+😵‍💫 = Emoji::FACE_WITH_SPIRAL_EYES
+
+🤯 = Emoji::EXPLODING_HEAD
+
+🤠 = Emoji::COWBOY_HAT_FACE
+
+🥳 = Emoji::PARTYING_FACE
+
+🥸 = Emoji::DISGUISED_FACE
+
+🧐 = Emoji::FACE_WITH_MONOCLE
+
+🫤 = Emoji::FACE_WITH_DIAGONAL_MOUTH
+
+☹ = Emoji::FROWNING_FACE
+
+🥺 = Emoji::PLEADING_FACE
+
+🥹 = Emoji::FACE_HOLDING_BACK_TEARS
+
+🥱 = Emoji::YAWNING_FACE
+
+🤬 = Emoji::FACE_WITH_SYMBOLS_ON_MOUTH
+
+🤡 = Emoji::CLOWN_FACE
+
+❣ = Emoji::HEART_EXCLAMATION
+
+❤️‍🔥 = Emoji::HEART_ON_FIRE
+
+❤️‍🩹 = Emoji::MENDING_HEART
+
+❤ = Emoji::RED_HEART
+
+🩷 = Emoji::PINK_HEART
+
+🧡 = Emoji::ORANGE_HEART
+
+🩵 = Emoji::LIGHT_BLUE_HEART
+
+🤎 = Emoji::BROWN_HEART
+
+🖤 = Emoji::BLACK_HEART
+
+🩶 = Emoji::GREY_HEART
+
+🤍 = Emoji::WHITE_HEART
+
+👁️‍🗨️ = Emoji::EYE_IN_SPEECH_BUBBLE
+
+🤚 = Emoji::RAISED_BACK_OF_HAND
+
+🖐 = Emoji::HAND_WITH_FINGERS_SPLAYED
+
+🫱 = Emoji::RIGHTWARDS_HAND
+
+🫲 = Emoji::LEFTWARDS_HAND
+
+🫳 = Emoji::PALM_DOWN_HAND
+
+🫴 = Emoji::PALM_UP_HAND
+
+🫷 = Emoji::LEFTWARDS_PUSHING_HAND
+
+🫸 = Emoji::RIGHTWARDS_PUSHING_HAND
+
+🤌 = Emoji::PINCHED_FINGERS
+
+🤏 = Emoji::PINCHING_HAND
+
+🤞 = Emoji::CROSSED_FINGERS
+
+🫰 = Emoji::HAND_WITH_INDEX_FINGER_AND_THUMB_CROSSED
+
+🤟 = Emoji::LOVE_YOU_GESTURE
+
+🤙 = Emoji::CALL_ME_HAND
+
+☝ = Emoji::INDEX_POINTING_UP
+
+🫵 = Emoji::INDEX_POINTING_AT_THE_VIEWER
+
+🤛 = Emoji::LEFT_FACING_FIST
+
+🤜 = Emoji::RIGHT_FACING_FIST
+
+🫶 = Emoji::HEART_HANDS
+
+🤲 = Emoji::PALMS_UP_TOGETHER
+
+🤝 = Emoji::HANDSHAKE
+
+🤳 = Emoji::SELFIE
+
+🦾 = Emoji::MECHANICAL_ARM
+
+🦿 = Emoji::MECHANICAL_LEG
+
+🦵 = Emoji::LEG
+
+🦶 = Emoji::FOOT
+
+🦻 = Emoji::EAR_WITH_HEARING_AID
+
+🧠 = Emoji::BRAIN
+
+🫀 = Emoji::ANATOMICAL_HEART
+
+🫁 = Emoji::LUNGS
+
+🦷 = Emoji::TOOTH
+
+🦴 = Emoji::BONE
+
+🫦 = Emoji::BITING_LIP
+
+🧒 = Emoji::CHILD
+
+🧑 = Emoji::PERSON
+
+🧔 = Emoji::PERSON_BEARD
+
+🧔‍♂️ = Emoji::MAN_BEARD
+
+🧔‍♀️ = Emoji::WOMAN_BEARD
+
+👨‍🦰 = Emoji::MAN_RED_HAIR
+
+👨‍🦱 = Emoji::MAN_CURLY_HAIR
+
+👨‍🦳 = Emoji::MAN_WHITE_HAIR
+
+👨‍🦲 = Emoji::MAN_BALD
+
+👩‍🦰 = Emoji::WOMAN_RED_HAIR
+
+🧑‍🦰 = Emoji::PERSON_RED_HAIR
+
+👩‍🦱 = Emoji::WOMAN_CURLY_HAIR
+
+🧑‍🦱 = Emoji::PERSON_CURLY_HAIR
+
+👩‍🦳 = Emoji::WOMAN_WHITE_HAIR
+
+🧑‍🦳 = Emoji::PERSON_WHITE_HAIR
+
+👩‍🦲 = Emoji::WOMAN_BALD
+
+🧑‍🦲 = Emoji::PERSON_BALD
+
+👱‍♀️ = Emoji::WOMAN_BLOND_HAIR
+
+👱‍♂️ = Emoji::MAN_BLOND_HAIR
+
+🧓 = Emoji::OLDER_PERSON
+
+🙍‍♂️ = Emoji::MAN_FROWNING
+
+🙍‍♀️ = Emoji::WOMAN_FROWNING
+
+🙎‍♂️ = Emoji::MAN_POUTING
+
+🙎‍♀️ = Emoji::WOMAN_POUTING
+
+🙅‍♂️ = Emoji::MAN_GESTURING_NO
+
+🙅‍♀️ = Emoji::WOMAN_GESTURING_NO
+
+🙆‍♂️ = Emoji::MAN_GESTURING_OK
+
+🙆‍♀️ = Emoji::WOMAN_GESTURING_OK
+
+💁‍♂️ = Emoji::MAN_TIPPING_HAND
+
+💁‍♀️ = Emoji::WOMAN_TIPPING_HAND
+
+🙋‍♂️ = Emoji::MAN_RAISING_HAND
+
+🙋‍♀️ = Emoji::WOMAN_RAISING_HAND
+
+🧏 = Emoji::DEAF_PERSON
+
+🧏‍♂️ = Emoji::DEAF_MAN
+
+🧏‍♀️ = Emoji::DEAF_WOMAN
+
+🙇‍♂️ = Emoji::MAN_BOWING
+
+🙇‍♀️ = Emoji::WOMAN_BOWING
+
+🤦 = Emoji::PERSON_FACEPALMING
+
+🤦‍♂️ = Emoji::MAN_FACEPALMING
+
+🤦‍♀️ = Emoji::WOMAN_FACEPALMING
+
+🤷 = Emoji::PERSON_SHRUGGING
+
+🤷‍♂️ = Emoji::MAN_SHRUGGING
+
+🤷‍♀️ = Emoji::WOMAN_SHRUGGING
+
+🧑‍⚕️ = Emoji::HEALTH_WORKER
+
+👨‍⚕️ = Emoji::MAN_HEALTH_WORKER
+
+👩‍⚕️ = Emoji::WOMAN_HEALTH_WORKER
+
+🧑‍🎓 = Emoji::STUDENT
+
+👨‍🎓 = Emoji::MAN_STUDENT
+
+👩‍🎓 = Emoji::WOMAN_STUDENT
+
+🧑‍🏫 = Emoji::TEACHER
+
+👨‍🏫 = Emoji::MAN_TEACHER
+
+👩‍🏫 = Emoji::WOMAN_TEACHER
+
+🧑‍⚖️ = Emoji::JUDGE
+
+👨‍⚖️ = Emoji::MAN_JUDGE
+
+👩‍⚖️ = Emoji::WOMAN_JUDGE
+
+🧑‍🌾 = Emoji::FARMER
+
+👨‍🌾 = Emoji::MAN_FARMER
+
+👩‍🌾 = Emoji::WOMAN_FARMER
+
+🧑‍🍳 = Emoji::COOK
+
+👨‍🍳 = Emoji::MAN_COOK
+
+👩‍🍳 = Emoji::WOMAN_COOK
+
+🧑‍🔧 = Emoji::MECHANIC
+
+👨‍🔧 = Emoji::MAN_MECHANIC
+
+👩‍🔧 = Emoji::WOMAN_MECHANIC
+
+🧑‍🏭 = Emoji::FACTORY_WORKER
+
+👨‍🏭 = Emoji::MAN_FACTORY_WORKER
+
+👩‍🏭 = Emoji::WOMAN_FACTORY_WORKER
+
+🧑‍💼 = Emoji::OFFICE_WORKER
+
+👨‍💼 = Emoji::MAN_OFFICE_WORKER
+
+👩‍💼 = Emoji::WOMAN_OFFICE_WORKER
+
+🧑‍🔬 = Emoji::SCIENTIST
+
+👨‍🔬 = Emoji::MAN_SCIENTIST
+
+👩‍🔬 = Emoji::WOMAN_SCIENTIST
+
+🧑‍💻 = Emoji::TECHNOLOGIST
+
+👨‍💻 = Emoji::MAN_TECHNOLOGIST
+
+👩‍💻 = Emoji::WOMAN_TECHNOLOGIST
+
+🧑‍🎤 = Emoji::SINGER
+
+👨‍🎤 = Emoji::MAN_SINGER
+
+👩‍🎤 = Emoji::WOMAN_SINGER
+
+🧑‍🎨 = Emoji::ARTIST
+
+👨‍🎨 = Emoji::MAN_ARTIST
+
+👩‍🎨 = Emoji::WOMAN_ARTIST
+
+🧑‍✈️ = Emoji::PILOT
+
+👨‍✈️ = Emoji::MAN_PILOT
+
+👩‍✈️ = Emoji::WOMAN_PILOT
+
+🧑‍🚀 = Emoji::ASTRONAUT
+
+👨‍🚀 = Emoji::MAN_ASTRONAUT
+
+👩‍🚀 = Emoji::WOMAN_ASTRONAUT
+
+🧑‍🚒 = Emoji::FIREFIGHTER
+
+👨‍🚒 = Emoji::MAN_FIREFIGHTER
+
+👩‍🚒 = Emoji::WOMAN_FIREFIGHTER
+
+👮‍♂️ = Emoji::MAN_POLICE_OFFICER
+
+👮‍♀️ = Emoji::WOMAN_POLICE_OFFICER
+
+🕵 = Emoji::DETECTIVE
+
+🕵️‍♂️ = Emoji::MAN_DETECTIVE
+
+🕵️‍♀️ = Emoji::WOMAN_DETECTIVE
+
+💂‍♂️ = Emoji::MAN_GUARD
+
+💂‍♀️ = Emoji::WOMAN_GUARD
+
+🥷 = Emoji::NINJA
+
+👷‍♂️ = Emoji::MAN_CONSTRUCTION_WORKER
+
+👷‍♀️ = Emoji::WOMAN_CONSTRUCTION_WORKER
+
+🫅 = Emoji::PERSON_WITH_CROWN
+
+🤴 = Emoji::PRINCE
+
+👳‍♂️ = Emoji::MAN_WEARING_TURBAN
+
+👳‍♀️ = Emoji::WOMAN_WEARING_TURBAN
+
+🧕 = Emoji::WOMAN_WITH_HEADSCARF
+
+🤵 = Emoji::PERSON_IN_TUXEDO
+
+🤵‍♂️ = Emoji::MAN_IN_TUXEDO
+
+🤵‍♀️ = Emoji::WOMAN_IN_TUXEDO
+
+👰‍♂️ = Emoji::MAN_WITH_VEIL
+
+👰‍♀️ = Emoji::WOMAN_WITH_VEIL
+
+🤰 = Emoji::PREGNANT_WOMAN
+
+🫃 = Emoji::PREGNANT_MAN
+
+🫄 = Emoji::PREGNANT_PERSON
+
+🤱 = Emoji::BREAST_FEEDING
+
+👩‍🍼 = Emoji::WOMAN_FEEDING_BABY
+
+👨‍🍼 = Emoji::MAN_FEEDING_BABY
+
+🧑‍🍼 = Emoji::PERSON_FEEDING_BABY
+
+🤶 = Emoji::MRS_CLAUS
+
+🧑‍🎄 = Emoji::MX_CLAUS
+
+🦸 = Emoji::SUPERHERO
+
+🦸‍♂️ = Emoji::MAN_SUPERHERO
+
+🦸‍♀️ = Emoji::WOMAN_SUPERHERO
+
+🦹 = Emoji::SUPERVILLAIN
+
+🦹‍♂️ = Emoji::MAN_SUPERVILLAIN
+
+🦹‍♀️ = Emoji::WOMAN_SUPERVILLAIN
+
+🧙 = Emoji::MAGE
+
+🧙‍♂️ = Emoji::MAN_MAGE
+
+🧙‍♀️ = Emoji::WOMAN_MAGE
+
+🧚 = Emoji::FAIRY
+
+🧚‍♂️ = Emoji::MAN_FAIRY
+
+🧚‍♀️ = Emoji::WOMAN_FAIRY
+
+🧛 = Emoji::VAMPIRE
+
+🧛‍♂️ = Emoji::MAN_VAMPIRE
+
+🧛‍♀️ = Emoji::WOMAN_VAMPIRE
+
+🧜 = Emoji::MERPERSON
+
+🧜‍♂️ = Emoji::MERMAN
+
+🧜‍♀️ = Emoji::MERMAID
+
+🧝 = Emoji::ELF
+
+🧝‍♂️ = Emoji::MAN_ELF
+
+🧝‍♀️ = Emoji::WOMAN_ELF
+
+🧞 = Emoji::GENIE
+
+🧞‍♂️ = Emoji::MAN_GENIE
+
+🧞‍♀️ = Emoji::WOMAN_GENIE
+
+🧟 = Emoji::ZOMBIE
+
+🧟‍♂️ = Emoji::MAN_ZOMBIE
+
+🧟‍♀️ = Emoji::WOMAN_ZOMBIE
+
+🧌 = Emoji::TROLL
+
+💆‍♂️ = Emoji::MAN_GETTING_MASSAGE
+
+💆‍♀️ = Emoji::WOMAN_GETTING_MASSAGE
+
+💇‍♂️ = Emoji::MAN_GETTING_HAIRCUT
+
+💇‍♀️ = Emoji::WOMAN_GETTING_HAIRCUT
+
+🚶‍♂️ = Emoji::MAN_WALKING
+
+🚶‍♀️ = Emoji::WOMAN_WALKING
+
+🚶‍➡️ = Emoji::PERSON_WALKING_FACING_RIGHT
+
+🚶‍♀️‍➡️ = Emoji::WOMAN_WALKING_FACING_RIGHT
+
+🚶‍♂️‍➡️ = Emoji::MAN_WALKING_FACING_RIGHT
+
+🧍 = Emoji::PERSON_STANDING
+
+🧍‍♂️ = Emoji::MAN_STANDING
+
+🧍‍♀️ = Emoji::WOMAN_STANDING
+
+🧎 = Emoji::PERSON_KNEELING
+
+🧎‍♂️ = Emoji::MAN_KNEELING
+
+🧎‍♀️ = Emoji::WOMAN_KNEELING
+
+🧎‍➡️ = Emoji::PERSON_KNEELING_FACING_RIGHT
+
+🧎‍♀️‍➡️ = Emoji::WOMAN_KNEELING_FACING_RIGHT
+
+🧎‍♂️‍➡️ = Emoji::MAN_KNEELING_FACING_RIGHT
+
+🧑‍🦯 = Emoji::PERSON_WITH_WHITE_CANE
+
+🧑‍🦯‍➡️ = Emoji::PERSON_WITH_WHITE_CANE_FACING_RIGHT
+
+👨‍🦯 = Emoji::MAN_WITH_WHITE_CANE
+
+👨‍🦯‍➡️ = Emoji::MAN_WITH_WHITE_CANE_FACING_RIGHT
+
+👩‍🦯 = Emoji::WOMAN_WITH_WHITE_CANE
+
+👩‍🦯‍➡️ = Emoji::WOMAN_WITH_WHITE_CANE_FACING_RIGHT
+
+🧑‍🦼 = Emoji::PERSON_IN_MOTORIZED_WHEELCHAIR
+
+🧑‍🦼‍➡️ = Emoji::PERSON_IN_MOTORIZED_WHEELCHAIR_FACING_RIGHT
+
+👨‍🦼 = Emoji::MAN_IN_MOTORIZED_WHEELCHAIR
+
+👨‍🦼‍➡️ = Emoji::MAN_IN_MOTORIZED_WHEELCHAIR_FACING_RIGHT
+
+👩‍🦼 = Emoji::WOMAN_IN_MOTORIZED_WHEELCHAIR
+
+👩‍🦼‍➡️ = Emoji::WOMAN_IN_MOTORIZED_WHEELCHAIR_FACING_RIGHT
+
+🧑‍🦽 = Emoji::PERSON_IN_MANUAL_WHEELCHAIR
+
+🧑‍🦽‍➡️ = Emoji::PERSON_IN_MANUAL_WHEELCHAIR_FACING_RIGHT
+
+👨‍🦽 = Emoji::MAN_IN_MANUAL_WHEELCHAIR
+
+👨‍🦽‍➡️ = Emoji::MAN_IN_MANUAL_WHEELCHAIR_FACING_RIGHT
+
+👩‍🦽 = Emoji::WOMAN_IN_MANUAL_WHEELCHAIR
+
+👩‍🦽‍➡️ = Emoji::WOMAN_IN_MANUAL_WHEELCHAIR_FACING_RIGHT
+
+🏃‍♂️ = Emoji::MAN_RUNNING
+
+🏃‍♀️ = Emoji::WOMAN_RUNNING
+
+🏃‍➡️ = Emoji::PERSON_RUNNING_FACING_RIGHT
+
+🏃‍♀️‍➡️ = Emoji::WOMAN_RUNNING_FACING_RIGHT
+
+🏃‍♂️‍➡️ = Emoji::MAN_RUNNING_FACING_RIGHT
+
+🕺 = Emoji::MAN_DANCING
+
+🕴 = Emoji::PERSON_IN_SUIT_LEVITATING
+
+👯‍♂️ = Emoji::MEN_WITH_BUNNY_EARS
+
+👯‍♀️ = Emoji::WOMEN_WITH_BUNNY_EARS
+
+🧖 = Emoji::PERSON_IN_STEAMY_ROOM
+
+🧖‍♂️ = Emoji::MAN_IN_STEAMY_ROOM
+
+🧖‍♀️ = Emoji::WOMAN_IN_STEAMY_ROOM
+
+🧗 = Emoji::PERSON_CLIMBING
+
+🧗‍♂️ = Emoji::MAN_CLIMBING
+
+🧗‍♀️ = Emoji::WOMAN_CLIMBING
+
+🤺 = Emoji::PERSON_FENCING
+
+🏌 = Emoji::PERSON_GOLFING
+
+🏌️‍♂️ = Emoji::MAN_GOLFING
+
+🏌️‍♀️ = Emoji::WOMAN_GOLFING
+
+🏄‍♂️ = Emoji::MAN_SURFING
+
+🏄‍♀️ = Emoji::WOMAN_SURFING
+
+🚣‍♂️ = Emoji::MAN_ROWING_BOAT
+
+🚣‍♀️ = Emoji::WOMAN_ROWING_BOAT
+
+🏊‍♂️ = Emoji::MAN_SWIMMING
+
+🏊‍♀️ = Emoji::WOMAN_SWIMMING
+
+⛹ = Emoji::PERSON_BOUNCING_BALL
+
+⛹️‍♂️ = Emoji::MAN_BOUNCING_BALL
+
+⛹️‍♀️ = Emoji::WOMAN_BOUNCING_BALL
+
+🏋 = Emoji::PERSON_LIFTING_WEIGHTS
+
+🏋️‍♂️ = Emoji::MAN_LIFTING_WEIGHTS
+
+🏋️‍♀️ = Emoji::WOMAN_LIFTING_WEIGHTS
+
+🚴‍♂️ = Emoji::MAN_BIKING
+
+🚴‍♀️ = Emoji::WOMAN_BIKING
+
+🚵‍♂️ = Emoji::MAN_MOUNTAIN_BIKING
+
+🚵‍♀️ = Emoji::WOMAN_MOUNTAIN_BIKING
+
+🤸 = Emoji::PERSON_CARTWHEELING
+
+🤸‍♂️ = Emoji::MAN_CARTWHEELING
+
+🤸‍♀️ = Emoji::WOMAN_CARTWHEELING
+
+🤼 = Emoji::PEOPLE_WRESTLING
+
+🤼‍♂️ = Emoji::MEN_WRESTLING
+
+🤼‍♀️ = Emoji::WOMEN_WRESTLING
+
+🤽 = Emoji::PERSON_PLAYING_WATER_POLO
+
+🤽‍♂️ = Emoji::MAN_PLAYING_WATER_POLO
+
+🤽‍♀️ = Emoji::WOMAN_PLAYING_WATER_POLO
+
+🤾 = Emoji::PERSON_PLAYING_HANDBALL
+
+🤾‍♂️ = Emoji::MAN_PLAYING_HANDBALL
+
+🤾‍♀️ = Emoji::WOMAN_PLAYING_HANDBALL
+
+🤹 = Emoji::PERSON_JUGGLING
+
+🤹‍♂️ = Emoji::MAN_JUGGLING
+
+🤹‍♀️ = Emoji::WOMAN_JUGGLING
+
+🧘 = Emoji::PERSON_IN_LOTUS_POSITION
+
+🧘‍♂️ = Emoji::MAN_IN_LOTUS_POSITION
+
+🧘‍♀️ = Emoji::WOMAN_IN_LOTUS_POSITION
+
+🧑‍🤝‍🧑 = Emoji::PEOPLE_HOLDING_HANDS
+
+👨‍👦 = Emoji::FAMILY_MAN_BOY
+
+👨‍👦‍👦 = Emoji::FAMILY_MAN_BOY_BOY
+
+👨‍👧 = Emoji::FAMILY_MAN_GIRL
+
+👨‍👧‍👦 = Emoji::FAMILY_MAN_GIRL_BOY
+
+👨‍👧‍👧 = Emoji::FAMILY_MAN_GIRL_GIRL
+
+👩‍👦 = Emoji::FAMILY_WOMAN_BOY
+
+👩‍👦‍👦 = Emoji::FAMILY_WOMAN_BOY_BOY
+
+👩‍👧 = Emoji::FAMILY_WOMAN_GIRL
+
+👩‍👧‍👦 = Emoji::FAMILY_WOMAN_GIRL_BOY
+
+👩‍👧‍👧 = Emoji::FAMILY_WOMAN_GIRL_GIRL
+
+🗣 = Emoji::SPEAKING_HEAD
+
+🫂 = Emoji::PEOPLE_HUGGING
+
+🧑‍🧑‍🧒 = Emoji::FAMILY_ADULT_ADULT_CHILD
+
+🧑‍🧑‍🧒‍🧒 = Emoji::FAMILY_ADULT_ADULT_CHILD_CHILD
+
+🧑‍🧒 = Emoji::FAMILY_ADULT_CHILD
+
+🧑‍🧒‍🧒 = Emoji::FAMILY_ADULT_CHILD_CHILD
+
+🫆 = Emoji::FINGERPRINT
+
+🦰 = Emoji::RED_HAIR
+
+🦱 = Emoji::CURLY_HAIR
+
+🦳 = Emoji::WHITE_HAIR
+
+🦲 = Emoji::BALD
+
+🦍 = Emoji::GORILLA
+
+🦧 = Emoji::ORANGUTAN
+
+🦮 = Emoji::GUIDE_DOG
+
+🐕‍🦺 = Emoji::SERVICE_DOG
+
+🦊 = Emoji::FOX
+
+🦝 = Emoji::RACCOON
+
+🐈‍⬛ = Emoji::BLACK_CAT
+
+🫎 = Emoji::MOOSE
+
+🫏 = Emoji::DONKEY
+
+🦓 = Emoji::ZEBRA
+
+🦌 = Emoji::DEER
+
+🦬 = Emoji::BISON
+
+🦙 = Emoji::LLAMA
+
+🦒 = Emoji::GIRAFFE
+
+🦣 = Emoji::MAMMOTH
+
+🦏 = Emoji::RHINOCEROS
+
+🦛 = Emoji::HIPPOPOTAMUS
+
+🦫 = Emoji::BEAVER
+
+🦔 = Emoji::HEDGEHOG
+
+🦇 = Emoji::BAT
+
+🐻‍❄️ = Emoji::POLAR_BEAR
+
+🦥 = Emoji::SLOTH
+
+🦦 = Emoji::OTTER
+
+🦨 = Emoji::SKUNK
+
+🦘 = Emoji::KANGAROO
+
+🦡 = Emoji::BADGER
+
+🕊 = Emoji::DOVE
+
+🦅 = Emoji::EAGLE
+
+🦆 = Emoji::DUCK
+
+🦢 = Emoji::SWAN
+
+🦉 = Emoji::OWL
+
+🦤 = Emoji::DODO
+
+🪶 = Emoji::FEATHER
+
+🦩 = Emoji::FLAMINGO
+
+🦚 = Emoji::PEACOCK
+
+🦜 = Emoji::PARROT
+
+🪽 = Emoji::WING
+
+🐦‍⬛ = Emoji::BLACK_BIRD
+
+🪿 = Emoji::GOOSE
+
+🐦‍🔥 = Emoji::PHOENIX
+
+🦎 = Emoji::LIZARD
+
+🦕 = Emoji::SAUROPOD
+
+🦖 = Emoji::T_REX
+
+🦭 = Emoji::SEAL
+
+🦈 = Emoji::SHARK
+
+🪸 = Emoji::CORAL
+
+🪼 = Emoji::JELLYFISH
+
+🦞 = Emoji::LOBSTER
+
+🦐 = Emoji::SHRIMP
+
+🦑 = Emoji::SQUID
+
+🦪 = Emoji::OYSTER
+
+🦋 = Emoji::BUTTERFLY
+
+🪲 = Emoji::BEETLE
+
+🦗 = Emoji::CRICKET
+
+🪳 = Emoji::COCKROACH
+
+🦟 = Emoji::MOSQUITO
+
+🪰 = Emoji::FLY
+
+🪱 = Emoji::WORM
+
+🦠 = Emoji::MICROBE
+
+🪷 = Emoji::LOTUS
+
+🥀 = Emoji::WILTED_FLOWER
+
+🪻 = Emoji::HYACINTH
+
+🪴 = Emoji::POTTED_PLANT
+
+🪹 = Emoji::EMPTY_NEST
+
+🪺 = Emoji::NEST_WITH_EGGS
+
+🪾 = Emoji::LEAFLESS_TREE
+
+🍋‍🟩 = Emoji::LIME
+
+🥭 = Emoji::MANGO
+
+🫐 = Emoji::BLUEBERRIES
+
+🥝 = Emoji::KIWI_FRUIT
+
+🫒 = Emoji::OLIVE
+
+🥥 = Emoji::COCONUT
+
+🥑 = Emoji::AVOCADO
+
+🥔 = Emoji::POTATO
+
+🥕 = Emoji::CARROT
+
+🫑 = Emoji::BELL_PEPPER
+
+🥒 = Emoji::CUCUMBER
+
+🥬 = Emoji::LEAFY_GREEN
+
+🥦 = Emoji::BROCCOLI
+
+🧄 = Emoji::GARLIC
+
+🧅 = Emoji::ONION
+
+🥜 = Emoji::PEANUTS
+
+🫘 = Emoji::BEANS
+
+🫚 = Emoji::GINGER_ROOT
+
+🫛 = Emoji::PEA_POD
+
+🍄‍🟫 = Emoji::BROWN_MUSHROOM
+
+🫜 = Emoji::ROOT_VEGETABLE
+
+🥐 = Emoji::CROISSANT
+
+🥖 = Emoji::BAGUETTE_BREAD
+
+🫓 = Emoji::FLATBREAD
+
+🥨 = Emoji::PRETZEL
+
+🥯 = Emoji::BAGEL
+
+🥞 = Emoji::PANCAKES
+
+🧇 = Emoji::WAFFLE
+
+🥩 = Emoji::CUT_OF_MEAT
+
+🥓 = Emoji::BACON
+
+🥪 = Emoji::SANDWICH
+
+🫔 = Emoji::TAMALE
+
+🥙 = Emoji::STUFFED_FLATBREAD
+
+🧆 = Emoji::FALAFEL
+
+🥚 = Emoji::EGG
+
+🥘 = Emoji::SHALLOW_PAN_OF_FOOD
+
+🫕 = Emoji::FONDUE
+
+🥣 = Emoji::BOWL_WITH_SPOON
+
+🥗 = Emoji::GREEN_SALAD
+
+🧈 = Emoji::BUTTER
+
+🧂 = Emoji::SALT
+
+🥫 = Emoji::CANNED_FOOD
+
+🥮 = Emoji::MOON_CAKE
+
+🥟 = Emoji::DUMPLING
+
+🥠 = Emoji::FORTUNE_COOKIE
+
+🥡 = Emoji::TAKEOUT_BOX
+
+🧁 = Emoji::CUPCAKE
+
+🥧 = Emoji::PIE
+
+🥛 = Emoji::GLASS_OF_MILK
+
+🫖 = Emoji::TEAPOT
+
+🥂 = Emoji::CLINKING_GLASSES
+
+🥃 = Emoji::TUMBLER_GLASS
+
+🫗 = Emoji::POURING_LIQUID
+
+🥤 = Emoji::CUP_WITH_STRAW
+
+🧋 = Emoji::BUBBLE_TEA
+
+🧃 = Emoji::BEVERAGE_BOX
+
+🧉 = Emoji::MATE
+
+🧊 = Emoji::ICE
+
+🥢 = Emoji::CHOPSTICKS
+
+🥄 = Emoji::SPOON
+
+🫙 = Emoji::JAR
+
+🧭 = Emoji::COMPASS
+
+🧱 = Emoji::BRICK
+
+🪨 = Emoji::ROCK
+
+🪵 = Emoji::WOOD
+
+🛖 = Emoji::HUT
+
+🏘 = Emoji::HOUSES
+
+🏚 = Emoji::DERELICT_HOUSE
+
+🛕 = Emoji::HINDU_TEMPLE
+
+🛝 = Emoji::PLAYGROUND_SLIDE
+
+🛻 = Emoji::PICKUP_TRUCK
+
+🏍 = Emoji::MOTORCYCLE
+
+🛵 = Emoji::MOTOR_SCOOTER
+
+🦽 = Emoji::MANUAL_WHEELCHAIR
+
+🦼 = Emoji::MOTORIZED_WHEELCHAIR
+
+🛺 = Emoji::AUTO_RICKSHAW
+
+🛴 = Emoji::KICK_SCOOTER
+
+🛹 = Emoji::SKATEBOARD
+
+🛼 = Emoji::ROLLER_SKATE
+
+🛞 = Emoji::WHEEL
+
+🛑 = Emoji::STOP_SIGN
+
+🛟 = Emoji::RING_BUOY
+
+🛶 = Emoji::CANOE
+
+🪂 = Emoji::PARACHUTE
+
+🛸 = Emoji::FLYING_SAUCER
+
+🧳 = Emoji::LUGGAGE
+
+⌛ = Emoji::HOURGLASS_DONE
+
+☀ = Emoji::SUN
+
+🪐 = Emoji::RINGED_PLANET
+
+⭐ = Emoji::STAR
+
+⛈ = Emoji::CLOUD_WITH_LIGHTNING_AND_RAIN
+
+🌤 = Emoji::SUN_BEHIND_SMALL_CLOUD
+
+🌥 = Emoji::SUN_BEHIND_LARGE_CLOUD
+
+🌦 = Emoji::SUN_BEHIND_RAIN_CLOUD
+
+🌪 = Emoji::TORNADO
+
+🌬 = Emoji::WIND_FACE
+
+⚡ = Emoji::HIGH_VOLTAGE
+
+🧨 = Emoji::FIRECRACKER
+
+🧧 = Emoji::RED_ENVELOPE
+
+🥇 = Emoji::1ST_PLACE_MEDAL
+
+🥈 = Emoji::2ND_PLACE_MEDAL
+
+🥉 = Emoji::3RD_PLACE_MEDAL
+
+🥎 = Emoji::SOFTBALL
+
+🥏 = Emoji::FLYING_DISC
+
+🥍 = Emoji::LACROSSE
+
+🥊 = Emoji::BOXING_GLOVE
+
+🥋 = Emoji::MARTIAL_ARTS_UNIFORM
+
+🥅 = Emoji::GOAL_NET
+
+🤿 = Emoji::DIVING_MASK
+
+🛷 = Emoji::SLED
+
+🥌 = Emoji::CURLING_STONE
+
+🪀 = Emoji::YO_YO
+
+🪁 = Emoji::KITE
+
+🪄 = Emoji::MAGIC_WAND
+
+🧩 = Emoji::PUZZLE_PIECE
+
+🧸 = Emoji::TEDDY_BEAR
+
+🪅 = Emoji::PINATA
+
+🪩 = Emoji::MIRROR_BALL
+
+🪆 = Emoji::NESTING_DOLLS
+
+♠ = Emoji::SPADE_SUIT
+
+♥ = Emoji::HEART_SUIT
+
+♦ = Emoji::DIAMOND_SUIT
+
+♣ = Emoji::CLUB_SUIT
+
+♟ = Emoji::CHESS_PAWN
+
+🀄 = Emoji::MAHJONG_RED_DRAGON
+
+🖼 = Emoji::FRAMED_PICTURE
+
+🧵 = Emoji::THREAD
+
+🪡 = Emoji::SEWING_NEEDLE
+
+🧶 = Emoji::YARN
+
+🪢 = Emoji::KNOT
+
+🕶 = Emoji::SUNGLASSES
+
+🥽 = Emoji::GOGGLES
+
+🥼 = Emoji::LAB_COAT
+
+🦺 = Emoji::SAFETY_VEST
+
+🧣 = Emoji::SCARF
+
+🧤 = Emoji::GLOVES
+
+🧥 = Emoji::COAT
+
+🧦 = Emoji::SOCKS
+
+🥻 = Emoji::SARI
+
+🩱 = Emoji::ONE_PIECE_SWIMSUIT
+
+🩲 = Emoji::BRIEFS
+
+🩳 = Emoji::SHORTS
+
+🪭 = Emoji::FOLDING_HAND_FAN
+
+🩴 = Emoji::THONG_SANDAL
+
+🥾 = Emoji::HIKING_BOOT
+
+🥿 = Emoji::FLAT_SHOE
+
+🩰 = Emoji::BALLET_SHOES
+
+🪮 = Emoji::HAIR_PICK
+
+🧢 = Emoji::BILLED_CAP
+
+🪖 = Emoji::MILITARY_HELMET
+
+⛑ = Emoji::RESCUE_WORKER_S_HELMET
+
+🪗 = Emoji::ACCORDION
+
+🪕 = Emoji::BANJO
+
+🥁 = Emoji::DRUM
+
+🪘 = Emoji::LONG_DRUM
+
+🪇 = Emoji::MARACAS
+
+🪈 = Emoji::FLUTE
+
+🪉 = Emoji::HARP
+
+☎ = Emoji::TELEPHONE
+
+🪫 = Emoji::LOW_BATTERY
+
+🖱 = Emoji::COMPUTER_MOUSE
+
+🧮 = Emoji::ABACUS
+
+🪔 = Emoji::DIYA_LAMP
+
+🪙 = Emoji::COIN
+
+🧾 = Emoji::RECEIPT
+
+🖋 = Emoji::FOUNTAIN_PEN
+
+🖊 = Emoji::PEN
+
+🖌 = Emoji::PAINTBRUSH
+
+🖍 = Emoji::CRAYON
+
+🗒 = Emoji::SPIRAL_NOTEPAD
+
+🗓 = Emoji::SPIRAL_CALENDAR
+
+✂ = Emoji::SCISSORS
+
+🪓 = Emoji::AXE
+
+🗡 = Emoji::DAGGER
+
+🪃 = Emoji::BOOMERANG
+
+🪚 = Emoji::CARPENTRY_SAW
+
+🪛 = Emoji::SCREWDRIVER
+
+🗜 = Emoji::CLAMP
+
+⚖ = Emoji::BALANCE_SCALE
+
+🦯 = Emoji::WHITE_CANE
+
+⛓️‍💥 = Emoji::BROKEN_CHAIN
+
+🪝 = Emoji::HOOK
+
+🧰 = Emoji::TOOLBOX
+
+🧲 = Emoji::MAGNET
+
+🪜 = Emoji::LADDER
+
+🪏 = Emoji::SHOVEL
+
+🧪 = Emoji::TEST_TUBE
+
+🧫 = Emoji::PETRI_DISH
+
+🧬 = Emoji::DNA
+
+🩸 = Emoji::DROP_OF_BLOOD
+
+🩹 = Emoji::ADHESIVE_BANDAGE
+
+🩼 = Emoji::CRUTCH
+
+🩺 = Emoji::STETHOSCOPE
+
+🩻 = Emoji::X_RAY
+
+🛗 = Emoji::ELEVATOR
+
+🪞 = Emoji::MIRROR
+
+🪟 = Emoji::WINDOW
+
+🪑 = Emoji::CHAIR
+
+🪠 = Emoji::PLUNGER
+
+🪤 = Emoji::MOUSE_TRAP
+
+🪒 = Emoji::RAZOR
+
+🧴 = Emoji::LOTION_BOTTLE
+
+🧷 = Emoji::SAFETY_PIN
+
+🧹 = Emoji::BROOM
+
+🧺 = Emoji::BASKET
+
+🧻 = Emoji::ROLL_OF_PAPER
+
+🪣 = Emoji::BUCKET
+
+🧼 = Emoji::SOAP
+
+🫧 = Emoji::BUBBLES
+
+🪥 = Emoji::TOOTHBRUSH
+
+🧽 = Emoji::SPONGE
+
+🧯 = Emoji::FIRE_EXTINGUISHER
+
+🛒 = Emoji::SHOPPING_CART
+
+🪦 = Emoji::HEADSTONE
+
+🧿 = Emoji::NAZAR_AMULET
+
+🪬 = Emoji::HAMSA
+
+🪧 = Emoji::PLACARD
+
+🪪 = Emoji::IDENTIFICATION_CARD
+
+⚠ = Emoji::WARNING
+
+☢ = Emoji::RADIOACTIVE
+
+☣ = Emoji::BIOHAZARD
+
+⬆ = Emoji::UP_ARROW
+
+↗ = Emoji::UP_RIGHT_ARROW
+
+➡ = Emoji::RIGHT_ARROW
+
+↘ = Emoji::DOWN_RIGHT_ARROW
+
+⬇ = Emoji::DOWN_ARROW
+
+↙ = Emoji::DOWN_LEFT_ARROW
+
+⬅ = Emoji::LEFT_ARROW
+
+↖ = Emoji::UP_LEFT_ARROW
+
+↩ = Emoji::RIGHT_ARROW_CURVING_LEFT
+
+↪ = Emoji::LEFT_ARROW_CURVING_RIGHT
+
+⤴ = Emoji::RIGHT_ARROW_CURVING_UP
+
+⤵ = Emoji::RIGHT_ARROW_CURVING_DOWN
+
+🕉 = Emoji::OM
+
+🪯 = Emoji::KHANDA
+
+♏ = Emoji::SCORPIO
+
+▶ = Emoji::PLAY_BUTTON
+
+⏭ = Emoji::NEXT_TRACK_BUTTON
+
+⏯ = Emoji::PLAY_OR_PAUSE_BUTTON
+
+◀ = Emoji::REVERSE_BUTTON
+
+⏮ = Emoji::LAST_TRACK_BUTTON
+
+⏸ = Emoji::PAUSE_BUTTON
+
+⏹ = Emoji::STOP_BUTTON
+
+⏺ = Emoji::RECORD_BUTTON
+
+⏏ = Emoji::EJECT_BUTTON
+
+🛜 = Emoji::WIRELESS
+
+♀ = Emoji::FEMALE_SIGN
+
+♂ = Emoji::MALE_SIGN
+
+⚧ = Emoji::TRANSGENDER_SYMBOL
+
+✖ = Emoji::MULTIPLY
+
+🟰 = Emoji::HEAVY_EQUALS_SIGN
+
+♾ = Emoji::INFINITY
+
+❗ = Emoji::RED_EXCLAMATION_MARK
+
+⚕ = Emoji::MEDICAL_SYMBOL
+
+♻ = Emoji::RECYCLING_SYMBOL
+
+⭕ = Emoji::HOLLOW_RED_CIRCLE
+
+☑ = Emoji::CHECK_BOX_WITH_CHECK
+
+✔ = Emoji::CHECK_MARK
+
+✴ = Emoji::EIGHT_POINTED_STAR
+
+© = Emoji::COPYRIGHT
+
+® = Emoji::REGISTERED
+
+™ = Emoji::TRADE_MARK
+
+🫟 = Emoji::SPLATTER
+
+🅰 = Emoji::A_BUTTON_BLOOD_TYPE
+
+🅱 = Emoji::B_BUTTON_BLOOD_TYPE
+
+ℹ = Emoji::INFORMATION
+
+Ⓜ = Emoji::CIRCLED_M
+
+🅾 = Emoji::O_BUTTON_BLOOD_TYPE
+
+🅿 = Emoji::P_BUTTON
+
+🈂 = Emoji::JAPANESE_SERVICE_CHARGE_BUTTON
+
+🈷 = Emoji::JAPANESE_MONTHLY_AMOUNT_BUTTON
+
+🈯 = Emoji::JAPANESE_RESERVED_BUTTON
+
+🈚 = Emoji::JAPANESE_FREE_OF_CHARGE_BUTTON
+
+㊗ = Emoji::JAPANESE_CONGRATULATIONS_BUTTON
+
+㊙ = Emoji::JAPANESE_SECRET_UUTTON
+
+🟠 = Emoji::ORANGE_CIRCLE
+
+🟡 = Emoji::YELLOW_CIRCLE
+
+🟢 = Emoji::GREEN_CIRCLE
+
+🟣 = Emoji::PURPLE_CIRCLE
+
+🟤 = Emoji::BROWN_CIRCLE
+
+⚫ = Emoji::BLACK_CIRCLE
+
+⚪ = Emoji::WHITE_CIRCLE
+
+🟥 = Emoji::RED_SQUARE
+
+🟧 = Emoji::ORANGE_SQUARE
+
+🟨 = Emoji::YELLOW_SQUARE
+
+🟩 = Emoji::GREEN_SQUARE
+
+🟦 = Emoji::BLUE_SQUARE
+
+🟪 = Emoji::PURPLE_SQUARE
+
+🟫 = Emoji::BROWN_SQUARE
+
+🏳 = Emoji::WHITE_FLAG
+
+🏳️‍🌈 = Emoji::RAINBOW_FLAG
+
+🏳️‍⚧️ = Emoji::TRANSGENDER_FLAG
+
+🏴‍☠️ = Emoji::PIRATE_FLAG
+
+🇨🇶 = Emoji::FLAG_SARK
+
+🇺🇳 = Emoji::FLAG_UNITED_NATIONS
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 = Emoji::FLAG_ENGLAND
+
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 = Emoji::FLAG_SCOTLAND
+
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 = Emoji::FLAG_WALES
+
